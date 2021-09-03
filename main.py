@@ -1,2 +1,3 @@
-from character_with_longest_consecutive_repetition import longest_repetition
-print(longest_repetition(''))
+import string_ends_with
+
+print(string_ends_with.solution("asdf", "df"))
