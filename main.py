@@ -1,0 +1,2 @@
+from character_with_longest_consecutive_repetition import longest_repetition
+print(longest_repetition(''))
