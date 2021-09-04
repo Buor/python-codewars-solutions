@@ -1,3 +1,5 @@
-import string_ends_with
+# example of some functions
 
-print(string_ends_with.solution("asdf", "df"))
+from kyu6.pyramid_array import pyramid
+
+print(pyramid(8))
