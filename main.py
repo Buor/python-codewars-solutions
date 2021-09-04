@@ -1,5 +1,5 @@
 # example of some functions
 
-from kyu6.pyramid_array import pyramid
+from kyu6.highest_scoring_word import high
 
-print(pyramid(8))
+print(high('man i need a taxi up to ubud'))
