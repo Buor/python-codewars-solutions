@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/find-the-odd-int
+
 def find_it(seq):
     d = {}
     for num in seq:
