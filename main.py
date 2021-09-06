@@ -1,5 +1,5 @@
 # example of some functions
 
-from kyu6.duplicate_encoder import duplicate_encode
+from kyu6.build_tower import tower_builder
 
-print(duplicate_encode('Success'))
+print(tower_builder(4))
