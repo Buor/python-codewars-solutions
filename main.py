@@ -1,5 +1,5 @@
 # example of some functions
 
-from kyu6.fold_an_array import fold_array
+from kyu5.where_my_anagrams_at import anagrams
 
-print(fold_array([1,2,3,4,5], 2 ))
+print(anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']))
